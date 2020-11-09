@@ -1,0 +1,231 @@
+body{
+    background-color: #191a3c;
+    color: gray;
+    font-family: 'Raleway', sans-serif;
+}
+
+.col-3{
+    padding-right: 0;
+    border-right: 1px solid gray;
+}
+
+.col-9{
+    padding: 0.6% 2% 1.6%;
+}
+
+.dashboardCol{
+    
+    padding:5%;
+}
+
+.logo-img{
+    width: 11%;
+}
+
+.logoCircle-img{
+    float: right;
+    width: 14%;
+    position: relative;
+    bottom: 8px;
+}
+
+.logoText{
+    color: #3a8ce2;
+    display: inline;
+    font-weight: 600;
+    position: absolute;
+}
+
+.dashboardContainer{
+    margin-top: 6%;
+    position: relative;
+    border: 1px solid grey;
+    border-radius: 9px;
+    background-color: #14233e;
+}
+
+.inner-dashboardContainer{
+    padding: 4%;
+    padding-bottom: 0;
+}
+
+.p-dashboard{
+    font-size: 1.5rem;
+    border-bottom: 1px solid;
+    padding-bottom: 3%;
+    font-weight: 500;
+    color: #b8b0d6;
+}
+
+.dashboardContainer span{
+    float: right;
+}
+
+.dropDown{
+    padding: 0;
+}
+
+.DesktopMacIcon{
+    margin-right: 7%;
+    color: #3a8ce2;
+}
+
+.p-dropDownHeader{
+    display: inline;
+    position: absolute;
+    top: 7%;
+}
+
+.a-dashboard:hover, a:active {
+    background-color: #12131f;
+    color: #3a8ce2;
+    border-radius: 9px;
+    text-decoration: none;
+}
+
+.a-dashboard{
+    padding-top: 0;
+    text-decoration: none;
+    display: block;
+    font-weight:500;
+    padding: 1.5% 0;
+    color: #b8b0d6;
+}
+
+
+.ArrowForward{
+    margin-left: 5%;
+}
+
+.p-dropDown1{
+    display: inline;
+    position: absolute;
+    top: 50.5%;
+    font-size: 19px;
+    padding-left: 8%;
+}
+
+.p-dropDown2{
+    display: inline;
+    position: absolute;
+    top: 78%;
+    font-size: 19px;
+    padding-left: 8%;
+}
+
+
+
+.main-appsContainer{
+    padding:5% 10%;
+}
+
+.main-appsContainer h1{
+    font-size: 135%;
+}
+
+.div-appsContent{
+    padding:6% 0;
+}
+
+.img-AppIcons{
+    width: 24px;
+}
+
+.div-appsContent p{
+    position:absolute;
+    display: inline-block;
+    font-weight: 500;
+    font-size: larger;
+    margin-left: 5%;
+}
+
+.div-appsContent a:hover{
+    color: #3a8ce2;
+}
+
+.div-appsContent a{
+    color: #b8b0d6;
+}
+
+
+.Navbar{
+    padding: 1% 0 2%;
+}
+
+.div-navbarLeft{
+    display: inline;
+    padding: 1%;
+}
+
+.navbarLeft-icons{
+    width: 2%;
+}
+
+.div-navbarRight{
+    float: right;
+    padding: 0 2%;
+    width: 43%;
+    position: relative;
+}
+
+.flag-icon{
+    width: 2vw;
+}
+
+.p-Eng{
+    display: inline-block;
+    padding: 0 2%;
+    color: #b8b0d6;
+    font-weight: 500;
+    font-size: larger;
+}
+
+.NabarRight-icon{
+    width: 1.5vw;
+    margin: 0 3%;
+}
+
+.profile{
+    display: inline-block;
+    position: absolute;
+    margin-left: 2%;
+}
+
+.profile-content{
+    color: #b8b0d6;
+    display: inline-block;
+    text-align: right;
+}
+
+.profile h1{
+    margin-bottom: 0px;
+    font-size: 1.3rem;
+}
+
+.profile p{
+    margin-bottom: 0px;
+}
+
+.profileImg{
+    float: right;
+    width: 3vw;
+    position: relative;
+    bottom: 13px;
+}
+
+.Graphs-row{
+    margin-top: 3%;
+}
+
+.GraphImgs{
+    width: 100%;
+    box-shadow: 1px 1px 20px #090917;
+}
+
+.imperesion-row{
+    margin-top:4%;
+}
+
+.incomeImg{
+    margin-top: 15%;
+}
